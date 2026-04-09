@@ -1,0 +1,4117 @@
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+G G G G G R G X
+G G G R G G M G
+R G W W W W G R
+G G W G G G G G
+G R W W W W G R
+G R W G G G G G
+G R R G R R G G
+G G G G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 1,6
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+G G G G G R M X
+G G G R G G G G
+R G W W W W G R
+G G W G G G G G
+G R W W W W G R
+G R W G G G G G
+G R R G R R G G
+G G G G G G R R
+M 100 U 1 0
+X 10
+----------------
+me = 0,6
+target = 0,7
+[SEND] R F
+----입력데이터----
+8 8 1 1 0
+G G G G G R G X
+R G G G G G G G
+G G W G G W G G
+R G W W W W G R
+G G R W W R G G
+G R R W W R R G
+M G G G G G G G
+G G R G G R G G
+M 100 R 1 0
+X 10
+----------------
+me = 6,0
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+G G G G G R G X
+R G G G G G G G
+G G W G G W G G
+R G W W W W G R
+G G R W W R G G
+M R R W W R R G
+G G G G G G G G
+G G R G G R G G
+M 100 U 1 0
+X 10
+----------------
+me = 5,0
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+G G G G G R G X
+R G G G G G G G
+G G W G G W G G
+R G W W W W G R
+M G R W W R G G
+G R R W W R R G
+G G G G G G G G
+G G R G G R G G
+M 100 U 1 0
+X 10
+----------------
+me = 4,0
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+G G G G G R G X
+R G G G G G G G
+G G W G G W G G
+R G W W W W G R
+G M R W W R G G
+G R R W W R R G
+G G G G G G G G
+G G R G G R G G
+M 100 R 1 0
+X 10
+----------------
+me = 4,1
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+G G G G G R G X
+R G G G G G G G
+G G W G G W G G
+R M W W W W G R
+G G R W W R G G
+G R R W W R R G
+G G G G G G G G
+G G R G G R G G
+M 100 U 1 0
+X 10
+----------------
+me = 3,1
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+G G G G G R G X
+R G G G G G G G
+G M W G G W G G
+R G W W W W G R
+G G R W W R G G
+G R R W W R R G
+G G G G G G G G
+G G R G G R G G
+M 100 U 1 0
+X 10
+----------------
+me = 2,1
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+G G G G G R G X
+R M G G G G G G
+G G W G G W G G
+R G W W W W G R
+G G R W W R G G
+G R R W W R R G
+G G G G G G G G
+G G R G G R G G
+M 100 U 1 0
+X 10
+----------------
+me = 1,1
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+G G G G G R G X
+R G M G G G G G
+G G W G G W G G
+R G W W W W G R
+G G R W W R G G
+G R R W W R R G
+G G G G G G G G
+G G R G G R G G
+M 100 R 1 0
+X 10
+----------------
+me = 1,2
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+G G G G G R G X
+R G G M G G G G
+G G W G G W G G
+R G W W W W G R
+G G R W W R G G
+G R R W W R R G
+G G G G G G G G
+G G R G G R G G
+M 100 R 1 0
+X 10
+----------------
+me = 1,3
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+G G G G G R G X
+R G G G M G G G
+G G W G G W G G
+R G W W W W G R
+G G R W W R G G
+G R R W W R R G
+G G G G G G G G
+G G R G G R G G
+M 100 R 1 0
+X 10
+----------------
+me = 1,4
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+G G G G G R G X
+R G G G G M G G
+G G W G G W G G
+R G W W W W G R
+G G R W W R G G
+G R R W W R R G
+G G G G G G G G
+G G R G G R G G
+M 100 R 1 0
+X 10
+----------------
+me = 1,5
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+G G G G G R G X
+R G G G G G M G
+G G W G G W G G
+R G W W W W G R
+G G R W W R G G
+G R R W W R R G
+G G G G G G G G
+G G R G G R G G
+M 100 R 1 0
+X 10
+----------------
+me = 1,6
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+G G G G G R M X
+R G G G G G G G
+G G W G G W G G
+R G W W W W G R
+G G R W W R G G
+G R R W W R R G
+G G G G G G G G
+G G R G G R G G
+M 100 U 1 0
+X 10
+----------------
+me = 0,6
+target = 0,7
+[SEND] R F
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G G G
+M R R G R R R R
+G G G G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 6,0
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] D A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G G G
+G R R G R R R R
+M G G G G G R R
+M 100 D 1 0
+X 10
+----------------
+me = 7,0
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G G G
+G R R G R R R R
+G M G G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 7,1
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G G G
+G R R G R R R R
+G G M G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 7,2
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G G G
+G R R G R R R R
+G G G M G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 7,3
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G G G
+G R R M R R R R
+G G G G G G R R
+M 100 U 1 0
+X 10
+----------------
+me = 6,3
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W M G G G G
+G R R G R R R R
+G G G G G G R R
+M 100 U 1 0
+X 10
+----------------
+me = 5,3
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G M G G G
+G R R G R R R R
+G G G G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 5,4
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G M G G
+G R R G R R R R
+G G G G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 5,5
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G M G
+G R R G R R R R
+G G G G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 5,6
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G G M
+G R R G R R R R
+G G G G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 5,7
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R M
+G R W G G G G G
+G R R G R R R R
+G G G G G G R R
+M 100 U 1 0
+X 10
+----------------
+me = 4,7
+target = 0,7
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G M
+G R W W W W R G
+G R W G G G G G
+G R R G R R R R
+G G G G G G R R
+M 100 U 1 0
+X 10
+----------------
+me = 3,7
+target = 0,7
+[SEND] U F
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+G T T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+M G G R G R R G W G
+R G G G G R G G G G
+M 100 R 1 10
+X 10
+----------------
+me = 8,0
+target = 0,9
+[INFO] needMega = 0, haveMega = 10
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+G T T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G M G R G R R G W G
+R G G G G R G G G G
+M 100 R 1 10
+X 10
+----------------
+me = 8,1
+target = 0,9
+[INFO] needMega = 0, haveMega = 10
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+G T T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R M G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 U 1 10
+X 10
+----------------
+me = 7,1
+target = 0,9
+[INFO] needMega = 0, haveMega = 10
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+G T T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R M G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 U 1 10
+X 10
+----------------
+me = 6,1
+target = 0,9
+[INFO] needMega = 0, haveMega = 10
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+G T T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G M G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 U 1 10
+X 10
+----------------
+me = 5,1
+target = 0,9
+[INFO] needMega = 0, haveMega = 10
+[SEND] L A
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+G T T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+M G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 L 1 10
+X 10
+----------------
+me = 5,0
+target = 0,9
+[INFO] needMega = 0, haveMega = 10
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+G T T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+M W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 U 1 10
+X 10
+----------------
+me = 4,0
+target = 0,9
+[INFO] needMega = 0, haveMega = 10
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+G T T T T G G G R G
+G W T T T G G G G G
+M W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 U 1 10
+X 10
+----------------
+me = 3,0
+target = 0,9
+[INFO] needMega = 0, haveMega = 10
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+G T T T T G G G R G
+M W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 U 1 10
+X 10
+----------------
+me = 2,0
+target = 0,9
+[INFO] needMega = 0, haveMega = 10
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+M T T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 U 1 10
+X 10
+----------------
+me = 1,0
+target = 0,9
+[INFO] needMega = 0, haveMega = 10
+[SEND] R F
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+M G T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 R 0 10
+X 10
+----------------
+me = 1,0
+target = 0,9
+[INFO] needMega = 1, haveMega = 10
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+G M T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 R 0 10
+X 10
+----------------
+me = 1,1
+target = 0,9
+[INFO] needMega = 1, haveMega = 10
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R M G G G G W G G X
+G G T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 U 0 10
+X 10
+----------------
+me = 0,1
+target = 0,9
+[INFO] needMega = 1, haveMega = 10
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R G M G G G W G G X
+G G T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 R 0 10
+X 10
+----------------
+me = 0,2
+target = 0,9
+[INFO] needMega = 1, haveMega = 10
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R G G M G G W G G X
+G G T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 R 0 10
+X 10
+----------------
+me = 0,3
+target = 0,9
+[INFO] needMega = 1, haveMega = 10
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R G G G M G W G G X
+G G T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 R 0 10
+X 10
+----------------
+me = 0,4
+target = 0,9
+[INFO] needMega = 1, haveMega = 10
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R G G G G M W G G X
+G G T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 R 0 10
+X 10
+----------------
+me = 0,5
+target = 0,9
+[INFO] needMega = 1, haveMega = 10
+[SEND] D A
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+G G T T T M G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 D 0 10
+X 10
+----------------
+me = 1,5
+target = 0,9
+[INFO] needMega = 1, haveMega = 10
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+G G T T T G M G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 R 0 10
+X 10
+----------------
+me = 1,6
+target = 0,9
+[INFO] needMega = 1, haveMega = 10
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R G G G G G W G G X
+G G T T T G G M R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 R 0 10
+X 10
+----------------
+me = 1,7
+target = 0,9
+[INFO] needMega = 1, haveMega = 10
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R G G G G G W M G X
+G G T T T G G G R G
+G W T T T G G G G G
+G W W T T R R R R G
+G W W W T G G R G G
+G G G R R G R G W G
+R G G R G G G G W G
+R G G R G G R G W G
+G G G R G R R G W G
+R G G G G R G G G G
+M 100 U 0 10
+X 10
+----------------
+me = 0,7
+target = 0,9
+[SEND] R F M
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T T T T T T
+G G W T T T T T T T
+G G W T T T T R G G
+G R W W W T R R R G
+G R W G G G R R R G
+M G G G G G G R R R
+G G G G G G G G R R
+M 100 R 1 10
+X 10
+----------------
+me = 8,0
+target = 0,9
+[INFO] needMega = 3, haveMega = 10
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T T T T T T
+G G W T T T T T T T
+G G W T T T T R G G
+G R W W W T R R R G
+G R W G G G R R R G
+G M G G G G G R R R
+G G G G G G G G R R
+M 100 R 1 10
+X 10
+----------------
+me = 8,1
+target = 0,9
+[INFO] needMega = 3, haveMega = 10
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T T T T T T
+G G W T T T T T T T
+G G W T T T T R G G
+G R W W W T R R R G
+G R W G G G R R R G
+G G M G G G G R R R
+G G G G G G G G R R
+M 100 R 1 10
+X 10
+----------------
+me = 8,2
+target = 0,9
+[INFO] needMega = 3, haveMega = 10
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T T T T T T
+G G W T T T T T T T
+G G W T T T T R G G
+G R W W W T R R R G
+G R W G G G R R R G
+G G G M G G G R R R
+G G G G G G G G R R
+M 100 R 1 10
+X 10
+----------------
+me = 8,3
+target = 0,9
+[INFO] needMega = 3, haveMega = 10
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T T T T T T
+G G W T T T T T T T
+G G W T T T T R G G
+G R W W W T R R R G
+G R W G G G R R R G
+G G G G M G G R R R
+G G G G G G G G R R
+M 100 R 1 10
+X 10
+----------------
+me = 8,4
+target = 0,9
+[INFO] needMega = 3, haveMega = 10
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T T T T T T
+G G W T T T T T T T
+G G W T T T T R G G
+G R W W W T R R R G
+G R W G M G R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 U 1 10
+X 10
+----------------
+me = 7,4
+target = 0,9
+[INFO] needMega = 3, haveMega = 10
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T T T T T T
+G G W T T T T T T T
+G G W T T T T R G G
+G R W W W T R R R G
+G R W G G M R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 R 1 10
+X 10
+----------------
+me = 7,5
+target = 0,9
+[INFO] needMega = 3, haveMega = 10
+[SEND] U F
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T T T T T T
+G G W T T T T T T T
+G G W T T T T R G G
+G R W W W G R R R G
+G R W G G M R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 U 0 10
+X 10
+----------------
+me = 7,5
+target = 0,9
+[INFO] needMega = 4, haveMega = 10
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T T T T T T
+G G W T T T T T T T
+G G W T T T T R G G
+G R W W W M R R R G
+G R W G G G R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 U 0 10
+X 10
+----------------
+me = 6,5
+target = 0,9
+[INFO] needMega = 4, haveMega = 10
+[SEND] U F M
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T T T T T T
+G G W T T T T T T T
+G G W T T G T R G G
+G R W W W M R R R G
+G R W G G G R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 U 0 9
+X 10
+----------------
+me = 6,5
+target = 0,9
+[INFO] needMega = 3, haveMega = 9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T T T T T T
+G G W T T T T T T T
+G G W T T M T R G G
+G R W W W G R R R G
+G R W G G G R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 U 0 9
+X 10
+----------------
+me = 5,5
+target = 0,9
+[INFO] needMega = 3, haveMega = 9
+[SEND] U F M
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T T T T T T
+G G W T T G T T T T
+G G W T T M T R G G
+G R W W W G R R R G
+G R W G G G R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 U 0 8
+X 10
+----------------
+me = 5,5
+target = 0,9
+[INFO] needMega = 2, haveMega = 8
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T T T T T T
+G G W T T M T T T T
+G G W T T G T R G G
+G R W W W G R R R G
+G R W G G G R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 U 0 8
+X 10
+----------------
+me = 4,5
+target = 0,9
+[INFO] needMega = 2, haveMega = 8
+[SEND] U F M
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T G T T T T
+G G W T T M T T T T
+G G W T T G T R G G
+G R W W W G R R R G
+G R W G G G R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 U 0 7
+X 10
+----------------
+me = 4,5
+target = 0,9
+[INFO] needMega = 1, haveMega = 7
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T M T T T T
+G G W T T G T T T T
+G G W T T G T R G G
+G R W W W G R R R G
+G R W G G G R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 U 0 7
+X 10
+----------------
+me = 3,5
+target = 0,9
+[INFO] needMega = 1, haveMega = 7
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R G M R R G G
+G R T T T G T T T T
+G G W T T G T T T T
+G G W T T G T R G G
+G R W W W G R R R G
+G R W G G G R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 U 0 7
+X 10
+----------------
+me = 2,5
+target = 0,9
+[INFO] needMega = 1, haveMega = 7
+[SEND] L A
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R G R R R W W
+G R G R M G R R G G
+G R T T T G T T T T
+G G W T T G T T T T
+G G W T T G T R G G
+G R W W W G R R R G
+G R W G G G R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 L 0 7
+X 10
+----------------
+me = 2,4
+target = 0,9
+[INFO] needMega = 1, haveMega = 7
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R R G R G G G G W X
+G G G R M R R R W W
+G R G R G G R R G G
+G R T T T G T T T T
+G G W T T G T T T T
+G G W T T G T R G G
+G R W W W G R R R G
+G R W G G G R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 U 0 7
+X 10
+----------------
+me = 1,4
+target = 0,9
+[INFO] needMega = 1, haveMega = 7
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+R R G R M G G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T G T T T T
+G G W T T G T T T T
+G G W T T G T R G G
+G R W W W G R R R G
+G R W G G G R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 U 0 7
+X 10
+----------------
+me = 0,4
+target = 0,9
+[INFO] needMega = 1, haveMega = 7
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R R G R G M G G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T G T T T T
+G G W T T G T T T T
+G G W T T G T R G G
+G R W W W G R R R G
+G R W G G G R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 R 0 7
+X 10
+----------------
+me = 0,5
+target = 0,9
+[INFO] needMega = 1, haveMega = 7
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+R R G R G G M G W X
+G G G R G R R R W W
+G R G R G G R R G G
+G R T T T G T T T T
+G G W T T G T T T T
+G G W T T G T R G G
+G R W W W G R R R G
+G R W G G G R R R G
+G G G G G G G R R R
+G G G G G G G G R R
+M 100 R 0 7
+X 10
+----------------
+me = 0,6
+target = 0,9
+[SEND] R F M
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G G G G G G W W W
+G G G G R R G G G G G G G G G G
+G G G G G G G G G G G G G G G E1
+G G G G R G G G G G G R R G G G
+F G G G R R G G G G G R R G G E2
+G G G G R R G F G G G R R G G G
+G G G G G R G G G G G G T G G E3
+G G G G G G G G G G G G T G G G
+G G G G G G T T G G T T T G G G
+G G G G G G T T G G T T T G R G
+G G G G G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+M G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 14,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W G G G G W W W
+G G G G R R G G G G G G G G G G
+G G G G G G G G G G G G G G G E1
+G G G G R G G G G G G R R G G G
+F G G G R R G G G G G R R G G G
+G G G G R R G F G G G R R G G E2
+G G G G G R G G G G G G T G G E3
+G G G G G G G G G G G G T G G G
+G G G G G G T T G G T T T G G G
+G G G G G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+M G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 13,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W G G G W W W
+G G G G R R G G W G G G G G G G
+G G G G G G G G G G G G G G G E1
+G G G G R G G G G G G R R G G G
+F G G G R R G G G G G R R G G G
+G G G G R R G F G G G R R G G E2
+G G G G G R G G G G G G T G G G
+G G G G G G G G G G G G T G G E3
+G G G G G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+M G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 12,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W G G W W W
+G G G G R R G G W W G G G G G G
+G G G G G G G G W G G G G G G G
+G G G G R G G G G G G R R G G E1
+F G G G R R G G G G G R R G G G
+G G G G R R G F G G G R R G G E2
+G G G G G R G G G G G G T G G G
+G G G G G G G G G G G G T G G E3
+G G W W G G T T G G T T T G G G
+M G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 11,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W G W W W
+G G G G R R G G W W W G G G G G
+G G G G G G G G W W G G G G G G
+G G G G R G G G W G G R R G G E1
+F G G G R R G G G G G R R G G G
+G G G G R R G F G G G R R G G E2
+G G G G G R G G G G G G T G G G
+G G W W G G G G G G G G T G G E3
+M G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 10,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G G G R R G G W W W W G G G G
+G G G G G G G G W W W G G G G G
+G G G G R G G G W W G R R G G E1
+F G G G R R G G G G G R R G G G
+G G G G R R G F G G G R R G G E2
+G G W W G R G G G G G G T G G E3
+M G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 9,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G G G R R G G W W W W W G G G
+G G G G G G G G W W W W G G G E1
+G G G G R G G G W W W R R G G G
+F G G G R R G G G G G R R G G G
+G G W W R R G F G G G R R G G E2
+M G W W G R G G G G G G T G G E3
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G G G R R G G W W W W W G G G
+G G G G G G G G W W W W W G G E1
+G G G G R G G G W W W R R G G G
+F G W W R R G G G G G R R G G E2
+M G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G E3
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+UFEKUNVCCFEKYVGRJK
+----------------
+me = 7,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G G G R R G G W W W W W G G G
+G G G G G G G G W W W W W G G E1
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G E2
+G M W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G E3 G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 7,1
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G G G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G E1
+G G W W R G G G W W W R R G G G
+F M W W R R G G G G G R R G G E2
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G E3 G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+GRJKZJALJKGRJK
+----------------
+me = 6,1
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G E1
+G M W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G E2 G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G E3 G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 5,1
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G M W G G G G G W W W W W G G E1
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G E2 G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T E3 G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,1
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G M W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G E1 G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G E2 G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T E3 G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 3,1
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G M G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G E1 G
+G G W W R G G G W W W R R G E2 G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T E3 G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 2,1
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G M G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G E1 G
+G G W W R G G G W W W R R G E2 G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G E3 G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 2,2
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G M G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G E1 G
+G G W W R G G G W W W R R G E2 G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G E3 G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 2,3
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W M R R G G W W W W W G G G
+G G W G G G G G W W W W W G E1 G
+G G W W R G G G W W W R R E2 G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G E3 G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 D 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 3,3
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W M G G G G W W W W W G E1 G
+G G W W R G G G W W W R R E2 G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T E3 G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 D 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,3
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G M G G G W W W W W E1 G G
+G G W W R G G G W W W R R E2 G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T E3 G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,4
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G M G G W W W W W E1 G G
+G G W W R G G G W W W R R E2 G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T E3 G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,5
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G M G W W W W W E1 G G
+G G W W R G G G W W W R R E2 G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T E3 G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,6
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G M W W W W W E1 G G
+G G W W R G G G W W W R R E2 G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T E3 G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,7
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W E1 G G
+G G W W R G G M W W W R R E2 G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T E3 G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 D 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 5,7
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] D A
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W E1 G G
+G G W W R G G G W W W R R E2 G G
+F G W W R R G M G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T E3 G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 D 1 0
+E1 10
+E2 10
+E3 10
+X 10
+RJBZEXTFJKJEFKYZEX
+----------------
+me = 6,7
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W E1 G G
+G G W W R G G G W W W R R E2 G G
+F G W W R R G G M G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T E3 G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 6,8
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W E1 G G
+G G W W R G G G W W W R R E2 G G
+F G W W R R G G G M G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T E3 G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 6,9
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W E1 G G
+G G W W R G G G W W W R R E2 G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G M G R R G G G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G E3 G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 D 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 7,9
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R E2 G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G M R R G G G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G E3 G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 7,10
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G E2 G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G M G T G G G
+G G W W G G G G G G G G T G E3 G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 D 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,10
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G E2 G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G M T G G G
+G G W W G G G G G G G G T G G E3
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,11
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] R F
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G E2 G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G M G G G G
+G G W W G G G G G G G G T G G E3
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 0 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,11
+target = 0,15
+[INFO] needMega = 1, haveMega = 0
+[SEND] L A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G E2
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G M G G G G G
+G G W W G G G G G G G G T G G E3
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 L 0 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,10
+target = 0,15
+[INFO] needMega = 1, haveMega = 0
+[SEND] L A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G E2
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G M G G G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G E3
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 L 0 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,9
+target = 0,15
+[INFO] needMega = 1, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G E2
+F G W W R R G G G G G R R G G G
+G G W W R R G F G M G R R G G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G E3
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 0 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 7,9
+target = 0,15
+[INFO] needMega = 1, haveMega = 0
+[SEND] L A
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G E2
+F G W W R R G G G G G R R G G G
+G G W W R R G F M G G R R G G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G E3
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 L 0 0
+E1 10
+E2 10
+E3 10
+X 10
+PFLNZCCEVMVIBEFNLEKZCPFLKIP
+----------------
+me = 7,8
+target = 0,15
+[INFO] needMega = 1, haveMega = 0
+[DECODE] bestShift=17, bestScore=52.0
+[DECODE] YOUWILLNEVERKNOWUNTILYOUTRY
+[SEND] G YOUWILLNEVERKNOWUNTILYOUTRY
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G E2
+F G W W R R G G G G G R R G G G
+G G W W R R G F M G G R R G G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R E3
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 L 0 1
+E1 10
+E2 10
+E3 10
+X 10
+WRZKYNZKYFLKUVVUJZJLJVCVJJ
+----------------
+me = 7,8
+target = 0,15
+[INFO] needMega = 1, haveMega = 1
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G E2
+F G W W R R G G G G G R R G G G
+G G W W R R G F G M G R R G G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R E3
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 0 1
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 7,9
+target = 0,15
+[INFO] needMega = 1, haveMega = 1
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G E2
+G G W W R R G F G G M R R G G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R E3
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 0 1
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 7,10
+target = 0,15
+[INFO] needMega = 1, haveMega = 1
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G E2
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G M G G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R E3
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 D 0 1
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,10
+target = 0,15
+[INFO] needMega = 1, haveMega = 1
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G E2
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G M G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R E3
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 0 1
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,11
+target = 0,15
+[INFO] needMega = 1, haveMega = 1
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G E2 G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G M G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R E3
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 0 1
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,12
+target = 0,15
+[INFO] needMega = 1, haveMega = 1
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G E2 G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G G M G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R E3
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 0 1
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,13
+target = 0,15
+[INFO] needMega = 1, haveMega = 1
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W E1 G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G E2 G
+G G W W R R G F G G G R R M G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R E3
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 0 1
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 7,13
+target = 0,15
+[INFO] needMega = 1, haveMega = 1
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W E1 G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R M E2 G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R E3
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 0 1
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 6,13
+target = 0,15
+[INFO] needMega = 1, haveMega = 1
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W E1 G G
+G G W W R G G G W W W R R M G G
+F G W W R R G G G G G R R G E2 G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G E3
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 0 1
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 5,13
+target = 0,15
+[INFO] needMega = 1, haveMega = 1
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R E1 M G
+F G W W R R G G G G G R R G E2 G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G E3
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 0 1
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 5,14
+target = 0,15
+[INFO] needMega = 1, haveMega = 1
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G M G
+G G W W R G G G W W W R R E1 E2 G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G E3
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 0 1
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,14
+target = 0,15
+[INFO] needMega = 1, haveMega = 1
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G M G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R E1 E2 G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R E3
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 0 1
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 3,14
+target = 0,15
+[INFO] needMega = 1, haveMega = 1
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G M
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G E2 G
+F G W W R R G G G G G R R E1 G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R E3
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 0 1
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 3,15
+target = 0,15
+[SEND] U F M
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W G G W W W W W G R G R G G G
+G W G G W W W W W G R G R G G E1
+G W G G G G G G G T T G G G G G
+G G G G G G G G G T T T T T G E2
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G E3
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+M G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 14,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W G W W W W W G R G R G G G
+G W W G W W W W W G R G R G G E1
+G W W G G G G G G T T G G G G G
+G G G G G G G G G T T T T T G E2
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G E3
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+M G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 13,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 1
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G E1
+G W W W G G G G G T T G G G G G
+G G G G G G G G G T T T T T G E2
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G E3
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G G
+F G R R G T G G G G T T T G G F
+M G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+KYVFECPTLIVWFIXIZVWZJRTKZFE
+----------------
+me = 12,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 0
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G E1
+G W W W W W W W W G R G R G G G
+G W W W W G G G G T T G G G G G
+G G G G G G G G G T T T T T G E2
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G E3
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G G
+F G R R G T G G G G T T T G G F
+G M R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 12,1
+target = 0,15
+[INFO] needMega = 99, haveMega = 0
+[SEND] U A
+----입력데이터----
+16 16 1 4 1
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G E1
+G W W W W W W W W G R G R G G G
+G W W W W W G G G T T G G G G E2
+G G G G G W G G G T T T T T G G
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G E3
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G G
+F M R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+KYVUZWWZTLCKPZECZWVZJKYVTYFZTV
+----------------
+me = 11,1
+target = 0,15
+[INFO] needMega = 99, haveMega = 0
+[DECODE] bestShift=17, bestScore=71.0
+[DECODE] THEDIFFICULTYINLIFEISTHECHOICE
+[SEND] G THEDIFFICULTYINLIFEISTHECHOICE
+----입력데이터----
+16 16 1 4 1
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G E1
+G W W W W W W W W G R G R G G G
+G W W W W W W G G T T G G G G E2
+G G G G G W W G G T T T T T G G
+G G R R G T T T G T T T T T G E3
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G G
+F M R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 1 1
+E1 10
+E2 10
+E3 10
+X 10
+KZDVZJXFCU
+----------------
+me = 11,1
+target = 0,15
+[INFO] needMega = 99, haveMega = 1
+[DECODE] bestShift=17, bestScore=16.0
+[DECODE] TIMEISGOLD
+[SEND] G TIMEISGOLD
+----입력데이터----
+16 16 1 4 1
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G E1 G
+G W W W W W W W W G R G R G G G
+G W W W W W W W G T T G G G G E2
+G G G G G W W W G T T T T T G G
+G G R R G T T T G T T T T T G E3
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G G
+F M R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 1 2
+E1 10
+E2 10
+E3 10
+X 10
+CZWVZKJVCWZJRHLFKRKZFE
+----------------
+me = 11,1
+target = 0,15
+[INFO] needMega = 0, haveMega = 2
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G E1 G
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W T T G G G G G
+G G G G G W W W W T T T T T G G
+G G R R G T T T G T T T T T G E3
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G G
+G M R R G T T T G T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 1 2
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 10,1
+target = 0,15
+[INFO] needMega = 99, haveMega = 2
+[SEND] L A
+----입력데이터----
+16 16 1 4 1
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G E1 G
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W T T G G G G G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T G E3
+G G R R G T T T G T T T T T G G
+G G R R G T T T G T T T T T G G
+M G R R G T T T G T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 L 1 2
+E1 10
+E2 10
+E3 10
+X 10
+WFCCFNPFLIYVRIK
+----------------
+me = 10,0
+target = 0,15
+[INFO] needMega = 99, haveMega = 2
+[DECODE] bestShift=17, bestScore=28.0
+[DECODE] FOLLOWYOURHEART
+[SEND] G FOLLOWYOURHEART
+----입력데이터----
+16 16 1 4 1
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G E1 E2
+G W W W W W W W W T T G G G G G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T G E3
+G G R R G T T T W T T T T T G G
+G G R R G T T T G T T T T T G G
+M G R R G T T T G T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 L 1 3
+E1 10
+E2 10
+E3 10
+X 10
+CZWVZJWLCCFWLGJREUUFNEJ
+----------------
+me = 10,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G E1 E2
+G W W W W W W W W T T G G G G G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T G E3
+G G R R G T T T W T T T T T G G
+M G R R G T T T W T T T T T G G
+G G R R G T T T G T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 1 3
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 9,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G E1 E2
+G W W W W W W W W T T G G G G G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+M G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 1 3
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W T T G G G E1 G
+G G G G G W W W W T T T T T G G
+M G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 7,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G E2 G
+G W W W W W W W W T T G G G E1 G
+M G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 6,0
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G E2 G
+G W W W W W W W W T T G G G E1 G
+G M G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 6,1
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G E2 G
+G W W W W W W W W T T G G G E1 G
+G G M G G W W W W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 6,2
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G E2 G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G E1 G
+G G G M G W W W W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 6,3
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G E2 G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G E1 G
+G G G G M W W W W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 6,4
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G E2 G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G E1 G G
+G G G G G W W W W T T T T T G G
+G G R R M T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 D 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 7,4
+target = 0,15
+[INFO] needMega = 1, haveMega = 3
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G E1 G G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R M T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 D 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 8,4
+target = 0,15
+[INFO] needMega = 99, haveMega = 3
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G E1 G G
+G G G G G W W W W T T T T T G G
+G G R R M T T T W T T T T T G E3
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 7,4
+target = 0,15
+[INFO] needMega = 99, haveMega = 3
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G E1 G
+G G G G M W W W W T T T T T G G
+G G R R G T T T W T T T T T G E3
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 6,4
+target = 0,15
+[INFO] needMega = 99, haveMega = 3
+[SEND] L A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W T T G G G E1 G
+G G G M G W W W W T T T T T G G
+G G R R G T T T W T T T T T G E3
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 L 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 6,3
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W T T G G G E1 G
+G G G G M W W W W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 6,4
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W T T G G G G G
+G G G G G W W W W T T T T T E1 G
+G G R R M T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 D 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 7,4
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G G E2
+G G G G G W W W W T T T T T E1 G
+G G R R G T T T W T T T T T E3 G
+G G R R M T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 D 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 8,4
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G G E2
+G G G G G W W W W T T T T T E1 G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R M T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 D 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 9,4
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G G E2
+G G G G G W W W W T T T T T E1 G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R M T T T W T T T T T G G
+F G R R G T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 D 1 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 10,4
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G G G
+G G G G G W W W W T T T T T E1 E2
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R M T G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 D 1 3
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 11,4
+target = 0,15
+[INFO] needMega = 0, haveMega = 3
+[SEND] R F
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G G G
+G G G G G W W W W T T T T T E1 E2
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R M G G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 0 3
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 11,4
+target = 0,15
+[INFO] needMega = 1, haveMega = 3
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G G G
+G G G G G W W W W T T T T T E1 E2
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G M G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 0 3
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 11,5
+target = 0,15
+[INFO] needMega = 1, haveMega = 3
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G G E2
+G G G G G W W W W T T T T T E1 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G G M G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 0 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 11,6
+target = 0,15
+[INFO] needMega = 1, haveMega = 3
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G G E2
+G G G G G W W W W T T T T T E1 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G G G M G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 0 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 11,7
+target = 0,15
+[INFO] needMega = 1, haveMega = 3
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G G E2
+G G G G G W W W W T T T T T G E1
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G G G G M G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 0 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 11,8
+target = 0,15
+[INFO] needMega = 1, haveMega = 3
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W T T G G G G G
+G G G G G W W W W T T T T T G E1
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+F G R R G G G G G M T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 0 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 11,9
+target = 0,15
+[INFO] needMega = 1, haveMega = 3
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W T T G G G G G
+G G G G G W W W W T T T T T G E1
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G M G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 D 0 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 12,9
+target = 0,15
+[INFO] needMega = 1, haveMega = 3
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W T T G G G G G
+G G G G G W W W W T T T T T E1 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G G M G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 0 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 12,10
+target = 0,15
+[INFO] needMega = 1, haveMega = 3
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G G E2
+G G G G G W W W W T T T T T E1 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G G G M G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 0 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 12,11
+target = 0,15
+[INFO] needMega = 1, haveMega = 3
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G G E2
+G G G G G W W W W T T T T T E1 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G G G G M G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 0 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 12,12
+target = 0,15
+[INFO] needMega = 1, haveMega = 3
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G G G E1 E2
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G G G G G M G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 0 3
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 12,13
+target = 0,15
+[INFO] needMega = 1, haveMega = 3
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W T T G G G E1 G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+F G R R G G G G G G T T T M G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 0 3
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 11,13
+target = 0,15
+[INFO] needMega = 1, haveMega = 3
+[SEND] U F M
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W T T G G G E1 G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T G G G
+F G R R G G G G G G T T T M G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 0 2
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 11,13
+target = 0,15
+[INFO] needMega = 1, haveMega = 2
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G G E2
+G W W W W W W W W T T G G E1 G G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T M G G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 0 2
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 10,13
+target = 0,15
+[INFO] needMega = 1, haveMega = 2
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G E2 G
+G W W W W W W W W T T G G E1 G G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T G M G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 0 2
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 10,14
+target = 0,15
+[INFO] needMega = 1, haveMega = 2
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G E2 G
+G W W W W W W W W T T G G E1 G G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T M G
+G G R R G T T T W T T T T G G G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 0 2
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 9,14
+target = 0,15
+[INFO] needMega = 1, haveMega = 2
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G G G
+G W W W W W W W W G R G R G E2 G
+G W W W W W W W W T T G E1 G G G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T M G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T G G G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 0 2
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 8,14
+target = 0,15
+[INFO] needMega = 1, haveMega = 2
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G E2 G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G E1 G G G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G M
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T G G G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 R 0 2
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 8,15
+target = 0,15
+[INFO] needMega = 1, haveMega = 2
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G E2 G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T G E1 G G G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T E3 M
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T G G G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 0 2
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 7,15
+target = 0,15
+[INFO] needMega = 1, haveMega = 2
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G E2 G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T E1 G G G G
+G G G G G W W W W T T T T T G M
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T G G G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 0 2
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 6,15
+target = 0,15
+[INFO] needMega = 1, haveMega = 2
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G E2 G
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T E1 G G G M
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T E3 G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T G G G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 0 2
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 5,15
+target = 0,15
+[INFO] needMega = 1, haveMega = 2
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G E2 G
+G W W W W W W W W G R G R G G M
+G W W W W W W W W T T E1 G G G G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T G E3
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T G G G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 0 2
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 4,15
+target = 0,15
+[INFO] needMega = 1, haveMega = 2
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+R G G G F G G G R G G G R W W X
+G G R G G G R G R G R G R W W W
+G R R G R G R G G G R G R W W W
+G W W W W W W W W G R G R G E2 M
+G W W W W W W W W G R G R G G G
+G W W W W W W W W T T E1 G G G G
+G G G G G W W W W T T T T T G G
+G G R R G T T T W T T T T T G E3
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T T G G
+G G R R G T T T W T T T T G G G
+F G R R G G G G G G T T T G G F
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G G G G G G G
+G G R R G T T T G G F G G G G G
+M 100 U 0 2
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 3,15
+target = 0,15
+[SEND] U F M

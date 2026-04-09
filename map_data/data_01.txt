@@ -1,0 +1,3729 @@
+G G W W W W G G
+G G W W M G G R
+G R R G G R R R
+G G G G G R R R
+M 100 U 1 0
+X 10
+----------------
+me = 5,4
+target = 0,7
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R G G G R R G X
+G G R G G G G G
+R G W W W W G G
+R G W W G G R G
+G G W W W W G G
+G G W W G M G R
+G R R G G R R R
+G G G G G R R R
+M 100 R 1 0
+X 10
+----------------
+me = 5,5
+target = 0,7
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R G G G R R G X
+G G R G G G G G
+R G W W W W G G
+R G W W G G R G
+G G W W W W G G
+G G W W G G M R
+G R R G G R R R
+G G G G G R R R
+M 100 R 1 0
+X 10
+----------------
+me = 5,6
+target = 0,7
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+R G G G R R G X
+G G R G G G G G
+R G W W W W G G
+R G W W G G R G
+G G W W W W M G
+G G W W G G G R
+G R R G G R R R
+G G G G G R R R
+M 100 U 1 0
+X 10
+----------------
+me = 4,6
+target = 0,7
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R G G G R R G X
+G G R G G G G G
+R G W W W W G G
+R G W W G G R G
+G G W W W W G M
+G G W W G G G R
+G R R G G R R R
+G G G G G R R R
+M 100 R 1 0
+X 10
+----------------
+me = 4,7
+target = 0,7
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+R G G G R R G X
+G G R G G G G G
+R G W W W W G G
+R G W W G G R M
+G G W W W W G G
+G G W W G G G R
+G R R G G R R R
+G G G G G R R R
+M 100 U 1 0
+X 10
+----------------
+me = 3,7
+target = 0,7
+[SEND] U F
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G G G
+M R R G R R R R
+G G G G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 6,0
+target = 0,7
+[SEND] D A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G G G
+G R R G R R R R
+M G G G G G R R
+M 100 D 1 0
+X 10
+----------------
+me = 7,0
+target = 0,7
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G G G
+G R R G R R R R
+G M G G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 7,1
+target = 0,7
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G G G
+G R R G R R R R
+G G M G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 7,2
+target = 0,7
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G G G
+G R R G R R R R
+G G G M G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 7,3
+target = 0,7
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G G G
+G R R M R R R R
+G G G G G G R R
+M 100 U 1 0
+X 10
+----------------
+me = 6,3
+target = 0,7
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W M G G G G
+G R R G R R R R
+G G G G G G R R
+M 100 U 1 0
+X 10
+----------------
+me = 5,3
+target = 0,7
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G M G G G
+G R R G R R R R
+G G G G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 5,4
+target = 0,7
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G M G G
+G R R G R R R R
+G G G G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 5,5
+target = 0,7
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G M G
+G R R G R R R R
+G G G G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 5,6
+target = 0,7
+[SEND] R A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R G
+G R W G G G G M
+G R R G R R R R
+G G G G G G R R
+M 100 R 1 0
+X 10
+----------------
+me = 5,7
+target = 0,7
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G G
+G R W W W W R M
+G R W G G G G G
+G R R G R R R R
+G G G G G G R R
+M 100 U 1 0
+X 10
+----------------
+me = 4,7
+target = 0,7
+[SEND] U A
+----입력데이터----
+8 8 1 1 0
+R R G G G R G X
+G G G R G G G G
+R G W W W W G G
+G G W G G G G M
+G R W W W W R G
+G R W G G G G G
+G R R G R R R R
+G G G G G G R R
+M 100 U 1 0
+X 10
+----------------
+me = 3,7
+target = 0,7
+[SEND] U F
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T T G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+M R G G G G G R G R
+R R R R R R R G G G
+M 100 R 1 10
+X 10
+----------------
+me = 8,0
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T T G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+M G G R R R G G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 U 1 10
+X 10
+----------------
+me = 7,0
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T T G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G M G R R R G G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 R 1 10
+X 10
+----------------
+me = 7,1
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T T G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G M R R R G G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 R 1 10
+X 10
+----------------
+me = 7,2
+target = 0,9
+[SEND] D A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T T G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+G R M G G G G R G R
+R R R R R R R G G G
+M 100 D 1 10
+X 10
+----------------
+me = 8,2
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T T G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+G R G M G G G R G R
+R R R R R R R G G G
+M 100 R 1 10
+X 10
+----------------
+me = 8,3
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T T G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+G R G G M G G R G R
+R R R R R R R G G G
+M 100 R 1 10
+X 10
+----------------
+me = 8,4
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T T G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+G R G G G M G R G R
+R R R R R R R G G G
+M 100 R 1 10
+X 10
+----------------
+me = 8,5
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T T G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+G R G G G G M R G R
+R R R R R R R G G G
+M 100 R 1 10
+X 10
+----------------
+me = 8,6
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T T G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R M G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 U 1 10
+X 10
+----------------
+me = 7,6
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T T G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G M G R R
+G G G R R R G G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 U 1 10
+X 10
+----------------
+me = 6,6
+target = 0,9
+[SEND] L A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T T G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G M G G R R
+G G G R R R G G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 L 1 10
+X 10
+----------------
+me = 6,5
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T T G G G G
+R R G R G G W R R G
+G G G R G M W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 U 1 10
+X 10
+----------------
+me = 5,5
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T T G G G G
+R R G R G M W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 U 1 10
+X 10
+----------------
+me = 4,5
+target = 0,9
+[SEND] U F
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T G G G G G
+R R G R G M W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 U 0 10
+X 10
+----------------
+me = 4,5
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T M G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 U 0 10
+X 10
+----------------
+me = 3,5
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T G M G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 R 0 10
+X 10
+----------------
+me = 3,6
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G M G R R
+G G G W T G G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 U 0 10
+X 10
+----------------
+me = 2,6
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R G G G
+G G R T T G G M R R
+G G G W T G G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 R 0 10
+X 10
+----------------
+me = 2,7
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R G G X
+G R G G R R R M G G
+G G R T T G G G R R
+G G G W T G G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 U 0 10
+X 10
+----------------
+me = 1,7
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G R R R M G X
+G R G G R R R G G G
+G G R T T G G G R R
+G G G W T G G G G G
+R R G R G G W R R G
+G G G R G G W G G G
+G R R R G G G G R R
+G G G R R R G G G G
+G R G G G G G R G R
+R R R R R R R G G G
+M 100 U 0 10
+X 10
+----------------
+me = 0,7
+target = 0,9
+[SEND] R F M
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T T R G
+G G G R T T R G T T
+G W G R R R R G W W
+M W G G G G G G G G
+G W G G G G G G G G
+M 100 R 1 10
+X 10
+----------------
+me = 8,0
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T T R G
+G G G R T T R G T T
+M W G R R R R G W W
+G W G G G G G G G G
+G W G G G G G G G G
+M 100 U 1 10
+X 10
+----------------
+me = 7,0
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T T R G
+M G G R T T R G T T
+G W G R R R R G W W
+G W G G G G G G G G
+G W G G G G G G G G
+M 100 U 1 10
+X 10
+----------------
+me = 6,0
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T T R G
+G M G R T T R G T T
+G W G R R R R G W W
+G W G G G G G G G G
+G W G G G G G G G G
+M 100 R 1 10
+X 10
+----------------
+me = 6,1
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T T R G
+G G M R T T R G T T
+G W G R R R R G W W
+G W G G G G G G G G
+G W G G G G G G G G
+M 100 R 1 10
+X 10
+----------------
+me = 6,2
+target = 0,9
+[SEND] D A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T T R G
+G G G R T T R G T T
+G W M R R R R G W W
+G W G G G G G G G G
+G W G G G G G G G G
+M 100 D 1 10
+X 10
+----------------
+me = 7,2
+target = 0,9
+[SEND] D A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T T R G
+G G G R T T R G T T
+G W G R R R R G W W
+G W M G G G G G G G
+G W G G G G G G G G
+M 100 D 1 10
+X 10
+----------------
+me = 8,2
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T T R G
+G G G R T T R G T T
+G W G R R R R G W W
+G W G M G G G G G G
+G W G G G G G G G G
+M 100 R 1 10
+X 10
+----------------
+me = 8,3
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T T R G
+G G G R T T R G T T
+G W G R R R R G W W
+G W G G M G G G G G
+G W G G G G G G G G
+M 100 R 1 10
+X 10
+----------------
+me = 8,4
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T T R G
+G G G R T T R G T T
+G W G R R R R G W W
+G W G G G M G G G G
+G W G G G G G G G G
+M 100 R 1 10
+X 10
+----------------
+me = 8,5
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T T R G
+G G G R T T R G T T
+G W G R R R R G W W
+G W G G G G M G G G
+G W G G G G G G G G
+M 100 R 1 10
+X 10
+----------------
+me = 8,6
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T T R G
+G G G R T T R G T T
+G W G R R R R G W W
+G W G G G G G M G G
+G W G G G G G G G G
+M 100 R 1 10
+X 10
+----------------
+me = 8,7
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T T R G
+G G G R T T R G T T
+G W G R R R R M W W
+G W G G G G G G G G
+G W G G G G G G G G
+M 100 U 1 10
+X 10
+----------------
+me = 7,7
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T T R G
+G G G R T T R M T T
+G W G R R R R G W W
+G W G G G G G G G G
+G W G G G G G G G G
+M 100 U 1 10
+X 10
+----------------
+me = 6,7
+target = 0,9
+[SEND] U F
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T G R G
+G G G R T T R M T T
+G W G R R R R G W W
+G W G G G G G G G G
+G W G G G G G G G G
+M 100 U 0 10
+X 10
+----------------
+me = 6,7
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T M R G
+G G G R T T R G T T
+G W G R R R R G W W
+G W G G G G G G G G
+G W G G G G G G G G
+M 100 U 0 10
+X 10
+----------------
+me = 5,7
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R G R G
+G W W G G G G M R G
+G G W G G T T G R G
+G G G R T T R G T T
+G W G R R R R G W W
+G W G G G G G G G G
+G W G G G G G G G G
+M 100 U 0 10
+X 10
+----------------
+me = 4,7
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G G
+G W G G G G R M R G
+G W W G G G G G R G
+G G W G G T T G R G
+G G G R T T R G T T
+G W G R R R R G W W
+G W G G G G G G G G
+G W G G G G G G G G
+M 100 U 0 10
+X 10
+----------------
+me = 3,7
+target = 0,9
+[SEND] U A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G M G G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T G R G
+G G G R T T R G T T
+G W G R R R R G W W
+G W G G G G G G G G
+G W G G G G G G G G
+M 100 U 0 10
+X 10
+----------------
+me = 2,7
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G M G
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T G R G
+G G G R T T R G T T
+G W G R R R R G W W
+G W G G G G G G G G
+G W G G G G G G G G
+M 100 R 0 10
+X 10
+----------------
+me = 2,8
+target = 0,9
+[SEND] R A
+----입력데이터----
+10 10 1 1 0
+G G G G G R G W W X
+G R G R G R G W W W
+G W R G G R G G G M
+G W G G G G R G R G
+G W W G G G G G R G
+G G W G G T T G R G
+G G G R T T R G T T
+G W G R R R R G W W
+G W G G G G G G G G
+G W G G G G G G G G
+M 100 R 0 10
+X 10
+----------------
+me = 2,9
+target = 0,9
+[SEND] U F M
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G G G G E1
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G G G R G E2
+G R G R T T G R G G G W G R R R
+R R G R T T G R G G G W G G G E3
+G G G T T T R R G G G R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G G G G G T G T R G G G
+G R R R G G G G G T G T R G G R
+G R R R G G G G G T G T R G G G
+M G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 14,0
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G G G G E1
+G G G R T G R G G R G G R R G E2
+G R G R T G G G R R G G G R G G
+G R G R T T G R G G G W G R R R
+R R G R T T G R G G G W G G G E3
+G G G T T T R R G G G R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G G G G G T G T R G G G
+G R R R G G G G G T G T R G G R
+G R R R G W W W W T G T R G G G
+G M G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 14,1
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G G G G E1
+G G G R T G R G G R G G R R G E2
+G R G R T G G G R R G G G R G G
+G R G R T T G R G G G W G R R R
+R R G R T T G R G G G W G G E3 G
+G G G T T T R R G G G R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G G G G G T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G M G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 14,2
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R G E2
+G R G R T G G G R R G G G R G G
+G R G R T T G R G G G W G R R R
+R R G R T T G R G G G W G G E3 G
+G G G T T T R R G G G R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G M G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 14,3
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R G G G W G R R R
+R R G R T T G R G G G W G G E3 G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G M W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 14,4
+target = 0,15
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R G G G W G R R R
+R R G R T T G R W W W W G E3 G G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G M G F G G G G F G G G G
+M 100 D 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 15,4
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W G E3 G G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G M F G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+EFJNVRKEFJNVVK
+----------------
+me = 15,5
+target = 0,15
+[SEND] G NOSWEATNOSWEET
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R G E2
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W G E3 G G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G M F G G G G F G G G G
+M 100 R 1 1
+E1 10
+E2 10
+E3 10
+X 10
+RJBZEXTFJKJEFKYZEX
+----------------
+me = 15,5
+target = 0,15
+[SEND] G ASKINGCOSTSNOTHING
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R G E2
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W G G E3 G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G M F G G G G F G G G G
+M 100 R 1 2
+E1 10
+E2 10
+E3 10
+X 10
+YRSZKZJJVTFEUERKLIV
+----------------
+me = 15,5
+target = 0,15
+[SEND] G HABITISSECONDNATURE
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R G E2
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W G G E3 G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G M F G G G G F G G G G
+M 100 R 1 3
+E1 10
+E2 10
+E3 10
+X 10
+WFIXZMVEVJJZJSVKKVIKYREIVMVEXV
+----------------
+me = 15,5
+target = 0,15
+[SEND] G FORGIVENESSISBETTERTHANREVENGE
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W G G E3 G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G M F G G G G F G G G G
+M 100 R 1 4
+E1 10
+E2 10
+E3 10
+X 10
+ZWPFLTREKSVRKKYVDAFZEKYVD
+----------------
+me = 15,5
+target = 0,15
+[SEND] G IFYOUCANTBEATTHEMJOINTHEM
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W G G E3 G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G M F G G G G F G G G G
+M 100 R 1 5
+E1 10
+E2 10
+E3 10
+X 10
+BEFNCVUXVZEPFLKYZJNZJUFDZERXV
+----------------
+me = 15,5
+target = 0,15
+[SEND] G KNOWLEDGEINYOUTHISWISDOMINAGE
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W G G E3 G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G M F G G G G F G G G G
+M 100 R 1 6
+E1 10
+E2 10
+E3 10
+X 10
+KYVSVXZEEZEXZJYRCWFWKYVNYFCV
+----------------
+me = 15,5
+target = 0,15
+[SEND] G THEBEGINNINGISHALFOFTHEWHOLE
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G G E2 G
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W G G E3 G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G M F G G G G F G G G G
+M 100 R 1 7
+E1 10
+E2 10
+E3 10
+X 10
+PFLNZCCEVMVIBEFNLEKZCPFLKIP
+----------------
+me = 15,5
+target = 0,15
+[SEND] G YOUWILLNEVERKNOWUNTILYOUTRY
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G G E2 G
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W G E3 G G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G M F G G G G F G G G G
+M 100 R 1 8
+E1 10
+E2 10
+E3 10
+X 10
+BEFNCVUXVZEPFLKYZJNZJUFDZERXV
+----------------
+me = 15,5
+target = 0,15
+[SEND] L A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G G G E2 E1
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W G E3 G G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G M G F G G G G F G G G G
+M 100 L 1 8
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 15,4
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G G G G E1
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W G E3 G G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G M W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 14,4
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G G G G E1
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W E3 G G G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R M W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 13,4
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G G G G E1
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W E3 G G G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R M W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 12,4
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G G G G E1
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W E3 G G G
+G G G T T T R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R M W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 11,4
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G G G G E1
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W E3 R R R
+R R G R T T G R W W W W G G G G
+G G G T T T R R W W W R R G G G
+G R R R M G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 10,4
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G G G E1 G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W E3 R R R
+R R G R T T G R W W W W G G G G
+G G G T T T R R W W W R R G G G
+G R R R G M G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 10,5
+target = 0,15
+[SEND] U F
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G G G E1 G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W E3 R R R
+R R G R T T G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G M G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 0 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 10,5
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G G G E1 G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T T G R W W W W E3 G G G
+G G G T T M R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 0 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 9,5
+target = 0,15
+[SEND] U F M
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G E1 G
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W E3 G G G
+G G G T T M R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 0 7
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 9,5
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G E1 G
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T M G R W W W W E3 G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 0 7
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,5
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G E1 G
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T G M R W W W W E3 G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 0 7
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,6
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G E1 G
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T M R W W W W G R R R
+R R G R T G G R W W W W E3 G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 0 7
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 7,6
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G E1 G
+G R R R T G R R G R G G G G E2 G
+G G G R T G R G G R G G R R G G
+G R G R T G M G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W E3 G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 0 7
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 6,6
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G E1 G
+G R R R T G R R G R G G G G E2 G
+G G G R T G R G G R G G R R G G
+G R G R T G G M R R G G G R G G
+G R G R T T G R W W W W E3 R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 0 7
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 6,7
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G E1 G
+G R R R T G R R G R G G G G E2 G
+G G G R T G R M G R G G R R G G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W E3 R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 0 7
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 5,7
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G E1 G
+G R R R T G R R G R G G G G G G
+G G G R T G R G M R G G R R E2 G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W E3 R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 0 7
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 5,8
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G E1 G
+G R R R T G R R M R G G G G G G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G E3 R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 0 7
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,8
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G M R G G G G G E1
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R E2 G
+G R G R T G G G R R G G E3 R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 0 7
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 3,8
+target = 0,15
+[SEND] L A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R M G R G G G G G E1
+G R R R T G R R G R G G G G E2 G
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G G E3 R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 L 0 7
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 3,7
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R M R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G G E2 G
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G G E3 R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 0 7
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 2,7
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R M G G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G G E2 G
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G G E3 R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 0 7
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 1,7
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G M G G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G E2 G G
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G G E3 R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 0 7
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 1,8
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G M G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G E1
+G R R R T G R R G R G G G E2 G G
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G G E3 R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 0 7
+E1 10
+E2 10
+E3 10
+X 10
+SVKKVICRKVKYREEVMVI
+----------------
+me = 1,9
+target = 0,15
+[SEND] G BETTERLATETHANNEVER
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G M G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G G E2 G E1
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G G E3 R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 0 8
+E2 10
+E1 10
+E3 10
+X 10
+JKVGSPJKVGXFVJRCFEXNRP
+----------------
+me = 1,9
+target = 0,15
+[SEND] G STEPBYSTEPGOESALONGWAY
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G M G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G E2 G G E1
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G G E3 R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 0 9
+E2 10
+E1 10
+E3 10
+X 10
+CZMVRJZWPFLNVIVKFUZVKFDFIIFN
+----------------
+me = 1,9
+target = 0,15
+[SEND] G LIVEASIFYOUWERETODIETOMORROW
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G M G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G E2 G G E1
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G G E3 R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 0 10
+E2 10
+E1 10
+E3 10
+X 10
+UFEKUIVRDSVZK
+----------------
+me = 1,9
+target = 0,15
+[SEND] G DONTDREAMBEIT
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G M G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G E2 G E1 G
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G G E3 R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 0 10
+E2 10
+E1 10
+E3 10
+X 10
+KYVUZWWZTLCKPZECZWVZJKYVTYFZTV
+----------------
+me = 1,9
+target = 0,15
+[SEND] G THEDIFFICULTYINLIFEISTHECHOICE
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G M G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G E2 G G G
+G R R R T G R R G R G G G G E1 G
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G G E3 R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 0 10
+E2 10
+E1 10
+E3 10
+X 10
+SVCZVMVZEPFLIJVCW
+----------------
+me = 1,9
+target = 0,15
+[SEND] G BELIEVEINYOURSELF
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F G G G W W X
+G G G G G G R G G M G G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G E2 G G G
+G R R R T G R R G R G G G G E1 G
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G E3 G R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 0 10
+E2 10
+E1 10
+E3 10
+X 10
+JKVGSPJKVGXFVJRCFEXNRP
+----------------
+me = 1,9
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G G W W X
+G G G G G G R G G G M G G W W W
+R R R G R G R G R R G G G W W W
+G G G G R G R G G R G G E2 G E1 G
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G E3 G R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 0 10
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 1,10
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 1
+G G G G F G R G G F M G G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G E2 W W W
+G G G G R G R G G R G G G G E1 G
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G G R R G G
+G R G R T G G G R R G E3 G R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 U 0 10
+E2 10
+E1 10
+E3 10
+X 10
+UFEKUIVRDSVZK
+----------------
+me = 0,10
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G M G W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G E2 W W W
+G G G G R G R G G R G G G G E1 G
+G R R R T G R R G R G G G G G G
+G G G R T G R G G R G E3 R R G G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 0 10
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 0,11
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G G F G R G G F G G M W W X
+G G G G G G R G G G G G G W W W
+R R R G R G R G R R G G E2 W W W
+G G G G R G R G G R G G G G G G
+G R R R T G R R G R G G G G E1 G
+G G G R T G R G G R G E3 R R G G
+G R G R T G G G R R G G G R G G
+G R G R T T G R W W W W G R R R
+R R G R T G G R W W W W G G G G
+G G G T T G R R W W W R R G G G
+G R R R G G G G G T G T R G R G
+G R R R G W W W W T G T R G G G
+G R R R G W W W W T G T R G G R
+G R R R G W W W W T G T R G G G
+G G G G G W W W W T G G G G R G
+G G G G G G F G G G G F G G G G
+M 100 R 0 10
+E2 10
+E1 10
+E3 10
+X 10
+----------------
+me = 0,12
+target = 0,15
+[SEND] R F M
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G G G G G G W W W
+G G G G R R G G G G G G G G G G
+G G G G G G G G G G G G G G G E1
+G G G G R G G G G G G R R G G G
+F G G G R R G G G G G R R G G E2
+G G G G R R G F G G G R R G G G
+G G G G G R G G G G G G T G G E3
+G G G G G G G G G G G G T G G G
+G G G G G G T T G G T T T G G G
+G G G G G G T T G G T T T G R G
+G G G G G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+M G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 14,0
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W G G G G W W W
+G G G G R R G G G G G G G G G G
+G G G G G G G G G G G G G G G E1
+G G G G R G G G G G G R R G G E2
+F G G G R R G G G G G R R G G G
+G G G G R R G F G G G R R G G G
+G G G G G R G G G G G G T G G E3
+G G G G G G G G G G G G T G G G
+G G G G G G T T G G T T T G G G
+G G G G G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+M G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 13,0
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W G G G W W W
+G G G G R R G G W G G G G G G G
+G G G G G G G G G G G G G G G E1
+G G G G R G G G G G G R R G G E2
+F G G G R R G G G G G R R G G G
+G G G G R R G F G G G R R G G E3
+G G G G G R G G G G G G T G G G
+G G G G G G G G G G G G T G G G
+G G G G G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+M G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 12,0
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W G G W W W
+G G G G R R G G W W G G G G G G
+G G G G G G G G W G G G G G G E1
+G G G G R G G G G G G R R G G E2
+F G G G R R G G G G G R R G G G
+G G G G R R G F G G G R R G G E3
+G G G G G R G G G G G G T G G G
+G G G G G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+M G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 11,0
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W G W W W
+G G G G R R G G W W W G G G G G
+G G G G G G G G W W G G G G G E1
+G G G G R G G G W G G R R G G G
+F G G G R R G G G G G R R G G E2
+G G G G R R G F G G G R R G G E3
+G G G G G R G G G G G G T G G G
+G G W W G G G G G G G G T G G G
+M G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 10,0
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G G G R R G G W W W W G G G G
+G G G G G G G G W W W G G G G E1
+G G G G R G G G W W G R R G G G
+F G G G R R G G G G G R R G G E2
+G G G G R R G F G G G R R G E3 G
+G G W W G R G G G G G G T G G G
+M G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 9,0
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G G G R R G G W W W W W G G E1
+G G G G G G G G W W W W G G G G
+G G G G R G G G W W W R R G G G
+F G G G R R G G G G G R R G G E2
+G G W W R R G F G G G R R G E3 G
+M G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,0
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G G G R R G G W W W W W G G E1
+G G G G G G G G W W W W W G G G
+G G G G R G G G W W W R R G G G
+F G W W R R G G G G G R R G G E2
+M G W W R R G F G G G R R G E3 G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 0
+E1 10
+E2 10
+E3 10
+X 10
+LEKZCUVRKYZKZJRCCCZWV
+----------------
+me = 7,0
+target = 0,15
+[SEND] G UNTILDEATHITISALLLIFE
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G G G R R G G W W W W W G G E1
+G G G G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G E2
+M G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G E3 G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 1
+E1 10
+E2 10
+E3 10
+X 10
+SVKKVICRKVKYREEVMVI
+----------------
+me = 7,0
+target = 0,15
+[SEND] S
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G G G R R G G W W W W W G E1 G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G E2
+M G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G E3 G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 1
+E1 10
+E2 10
+E3 10
+X 10
+NYRKNZCCSVNZCCSV
+----------------
+me = 7,0
+target = 0,15
+[SEND] G WHATWILLBEWILLBE
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G E1 G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+M G W W R R G F G G G R R G G E2
+G G W W G R G G G G G G T G E3 G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 2
+E1 10
+E2 10
+E3 10
+X 10
+RGFVKZJKYVGRZEKVIFWKYVJFLC
+----------------
+me = 7,0
+target = 0,15
+[SEND] G APOETISTHEPAINTEROFTHESOUL
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G E1 G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+M G W W R R G F G G G R R G G E2
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G E3 G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 3
+E1 10
+E2 10
+E3 10
+X 10
+RGFVKZJKYVGRZEKVIFWKYVJFLC
+----------------
+me = 7,0
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+G M W W R R G F G G G R R G G E2
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G E3 G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 3
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 7,1
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F M W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G E2
+G G W W G G G G G G G G T G E3 G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 3
+E1 10
+E2 10
+E3 10
+X 10
+CZWVZJEFKRCCSVVIREUJBZKKCVJ
+----------------
+me = 6,1
+target = 0,15
+[SEND] G LIFEISNOTALLBEERANDSKITTLES
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F M W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G E2
+G G W W G G G G G G G G T E3 G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 4
+E1 10
+E2 10
+E3 10
+X 10
+XFFUWVETVJDRBVJXFFUEVZXYSFIJ
+----------------
+me = 6,1
+target = 0,15
+[SEND] G GOODFENCESMAKESGOODNEIGHBORS
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F M W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G E2
+G G W W G G G G G G G G T E3 G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 5
+E1 10
+E2 10
+E3 10
+X 10
+KZDVZJXFCU
+----------------
+me = 6,1
+target = 0,15
+[SEND] G TIMEISGOLD
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F M W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G E2
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T E3 G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 6
+E1 10
+E2 10
+E3 10
+X 10
+EFGRZEEFXRZE
+----------------
+me = 6,1
+target = 0,15
+[SEND] G NOPAINNOGAIN
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F M W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G E2
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T E3 G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 7
+E1 10
+E2 10
+E3 10
+X 10
+NYRKVMVIPFLUFDRBVZKGRP
+----------------
+me = 6,1
+target = 0,15
+[SEND] G WHATEVERYOUDOMAKEITPAY
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W E1 G G
+G G W W R G G G W W W R R G G G
+F M W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G E2
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T E3 G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 8
+E1 10
+E2 10
+E3 10
+X 10
+BEFNCVUXVZEPFLKYZJNZJUFDZERXV
+----------------
+me = 6,1
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W E1 G G
+G M W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G E2
+G G W W G G G G G G G G T E3 G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 5,1
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G M W G G G G G W W W W W E1 G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G E2
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T E3 G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,1
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G M W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G E2
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T E3 G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 3,1
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G M G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G E2 G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T E3 G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 2,1
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G M G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G E2 G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G E3 G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 2,2
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G M G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G E2 G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G E3 G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 2,3
+target = 0,15
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W M R R G G W W W W W E1 G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G E2
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G E3 G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 D 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 3,3
+target = 0,15
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W E1 G G
+G G W M G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G E2
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G E3 G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 D 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,3
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G M G G G W W W W W E1 G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G E2
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G E3 G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,4
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G M G G W W W W W E1 G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G G E2
+G G W W G G T T G G T T T G E3 G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,5
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G M G W W W W W E1 G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G G E2
+G G W W G G T T G G T T T G E3 G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,6
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G M W W W W W G G G
+G G W W R G G G W W W R R E1 G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G G E2
+G G W W G G T T G G T T T G E3 G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,7
+target = 0,15
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G M W W W R R E1 G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G E3 E2
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 D 1 8
+E1 10
+E3 10
+E2 10
+X 10
+----------------
+me = 5,7
+target = 0,15
+[SEND] D A
+----입력데이터----
+16 16 1 4 1
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R E1 G G
+F G W W R R G M G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G E3 E2
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 D 1 8
+E1 10
+E3 10
+E2 10
+X 10
+SVKKVICRKVKYREEVMVI
+----------------
+me = 6,7
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G E1 G
+F G W W R R G G M G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G E3 E2
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 8
+E1 10
+E3 10
+E2 10
+X 10
+----------------
+me = 6,8
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G E1 G
+F G W W R R G G G M G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G E3 E2
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 8
+E1 10
+E3 10
+E2 10
+X 10
+----------------
+me = 6,9
+target = 0,15
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G E1 G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G M G R R G G G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T E3 G E2
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 D 1 8
+E1 10
+E3 10
+E2 10
+X 10
+----------------
+me = 7,9
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G E1 G
+G G W W R R G F G G M R R G G G
+G G W W G R G G G G G G T G G G
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T E3 G E2
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 8
+E1 10
+E3 10
+E2 10
+X 10
+----------------
+me = 7,10
+target = 0,15
+[SEND] D A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G E1 G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G M G T G G G
+G G W W G G G G G G G G T G G E2
+G G W W G G T T G G T T T E3 G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 D 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,10
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G E1 G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G M T G G G
+G G W W G G G G G G G G T G G E2
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T E3 R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 1 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,11
+target = 0,15
+[SEND] R F
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G E1 G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G M G G G G
+G G W W G G G G G G G G T G G E2
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T E3 R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 0 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,11
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G E1 G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G M G G E2
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T E3 R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 0 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,12
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G E1 G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G G M G E2
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T E3 R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 0 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 8,13
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G E1
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R M G G
+G G W W G R G G G G G G G G G E2
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T E3 R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 0 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 7,13
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G E1
+F G W W R R G G G G G R R M G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G G G G E2
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T E3 R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 0 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 6,13
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R M G E1
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G G G G E2
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T E3 G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 0 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 5,13
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W M G G
+G G W W R G G G W W W R R G G E1
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G G G G E2
+G G W W G G G G G G G G T G G G
+G G W W G G T T G G T T T E3 G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 0 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,13
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G G
+G G W G G G G G W W W W W G M G
+G G W W R G G G W W W R R G G E1
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T G G E2
+G G W W G G T T G G T T T E3 G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 0 8
+E1 10
+E2 10
+E3 10
+X 10
+----------------
+me = 4,14
+target = 0,15
+[SEND] U A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G M G
+G G W G G G G G W W W W W G G G
+G G W W R G G G W W W R R G G E1
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T E3 G E2
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 U 0 8
+E1 10
+E3 10
+E2 10
+X 10
+----------------
+me = 3,14
+target = 0,15
+[SEND] R A
+----입력데이터----
+16 16 1 4 0
+G G G F G R R G W G G G G W W X
+G G G G G R R G W G G G G W W W
+G G G G G R G G W W W W W W W W
+G G W G R R G G W W W W W G G M
+G G W G G G G G W W W W W G G E1
+G G W W R G G G W W W R R G G G
+F G W W R R G G G G G R R G G G
+G G W W R R G F G G G R R G G G
+G G W W G R G G G G G G G G G G
+G G W W G G G G G G G G T E3 G E2
+G G W W G G T T G G T T T G G G
+G G W W G G T T G G T T T G R G
+G G W W G G T T G G T T T G R G
+G G W W W G T T G G T T T G R G
+G G R R R G G G G G G G G G G G
+R G R R R G G G G G G F G G G G
+M 100 R 0 8
+E1 10
+E3 10
+E2 10
+X 10
+----------------
+me = 3,15
+target = 0,15
+[SEND] U F M
